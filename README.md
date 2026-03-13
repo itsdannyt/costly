@@ -123,4 +123,4 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ---
 
-Built by [Danny](https://x.com/getcostly) in Scottsdale, AZ.
+Built by [Danny](https://x.com/itsdannyyt) in Scottsdale, AZ.
